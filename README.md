@@ -1,2 +1,2 @@
 # prog_est_prog_5B
-Programa en lenguaje c que muestra el uso de scanf, uso del ciclo while y operaciones aritméticas  
+Programa en lenguaje c que muestra el uso de scanf, operaciones aritméticas y el uso de condiciones con el operador ternario   
